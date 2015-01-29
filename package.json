@@ -16,15 +16,16 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "socket.io-client": "~0.9.11",
-    "engine.io-client": "~0.9.0",
+    "socket.io-client": "~1.2.0",
+    "engine.io-client": "~1.4.2",
     "commander": "~1.1.1",
     "colors": "~0.6",
     "cli-table": "~0.3.0",
     "faye": "~0.8.9",
     "winston": "~0.7.1",
-    "socket.io": "~0.9.14",
-    "primus": "~1.5.2"
+    "socket.io": "~1.2.0",
+    "primus": "~1.5.2",
+    "node-uuid": "latest"
   },
   "devDependencies": {
     "chai": "~1.6.0",

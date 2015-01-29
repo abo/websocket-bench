@@ -25,6 +25,7 @@ Tip: You may find it useful to increase the maximum number of open file descript
 Simple example (using Socket.IO by default):
 
 `websocket-bench -a 2500 -c 200 http://localhost:3000`
+`websocket-bench -a 2500 -c 200 http://localhost:3000/socket.io/?userinfo={"uid":"_uuid","user_name":"_uuid","room_id":"25411361","avatar":"http://121.41.115.231/static/images/avatar/17.jpg"}`
 
 Simple example (using Primus):
 
